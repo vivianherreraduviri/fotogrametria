@@ -4,7 +4,7 @@ import os
 import uuid
 import shutil
 # Importa aquí las funciones de inferencia de Hunyuan3D
-# Ejemplo: from infer import Hunyuan3DGenerator 
+# Ejemplo:from infer import Hunyuan3DGenerator 
 
 app = FastAPI(title="Hunyuan3D Forensic API")
 
